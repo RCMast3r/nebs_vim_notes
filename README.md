@@ -2,7 +2,7 @@ within vscode:
 
 `ctrl+shift+e` to open the file tree explorer
 
-`ctrl+<apostrohphe>` to toggle terminal
+`ctrl+\`` to toggle terminal
 
 `dd` to delete current line
 
