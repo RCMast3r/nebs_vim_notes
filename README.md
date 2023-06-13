@@ -11,6 +11,7 @@ vim keybindings:
 
 `yaw` to copy the word under cursor currently (Normal mode)
 
+`dt)` delete up until `)` character (Normal mode)
 neovim:
 
 to launch: use `nvim`
