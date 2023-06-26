@@ -15,3 +15,5 @@ vim keybindings:
 neovim:
 
 to launch: use `nvim`
+
+`viw` to select the word under the cursor from normal mode. (I do this then press `p` to paste-replace a word)
